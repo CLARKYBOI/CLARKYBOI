@@ -4,8 +4,7 @@ I'm Clark, pursing a career in cybersecurity and maintaining a focus on cloud se
 
 I've worked with AWS, Azure in a cloud aspect and a B.S in Cybersecurity Technology
 
-I have used Linux and other flavors such as Kali, Arch, Ubuntu, Mint and familiar with Windows 11/10
-
+I plan to document my AWS learning and project creation in my repository and use this profile to display my effort and self study
 <!--
 **CLARKYBOI/CLARKYBOI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
