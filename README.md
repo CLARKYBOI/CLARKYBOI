@@ -13,7 +13,8 @@ I plan to document my AWS learning and project creation in my repository and usi
 ## A bit About me
 - 📺Anime watcher
 - 🏋🏻‍♂️Gym fanatic
-- 💉Addicted to self improvement 
+- 🎯 Focused on deliberate practice and continuous improvement
+- 🎮 FPS enjoyer
 <!--
 Some technical skills uses of Linux and other flavors such as Kali, Arch, Ubuntu, Mint and familiar with Windows 11/10, OrcaleBox, VMware.
 While developing my understanding of compliance standards such as NIST 800-53, MITRE ATT&CK
