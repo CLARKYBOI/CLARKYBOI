@@ -13,7 +13,7 @@ I plan to document my AWS learning and project creation in my repository and usi
 ## A bit About me
 - 📺Anime watcher
 - 🏋🏻‍♂️Gym fanatic
-- 🎯 Focused on deliberate practice and continuous improvement
+- 🎯 Practice-oriented
 - 🎮 FPS enjoyer
 <!--
 Some technical skills uses of Linux and other flavors such as Kali, Arch, Ubuntu, Mint and familiar with Windows 11/10, OrcaleBox, VMware.
