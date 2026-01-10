@@ -5,7 +5,11 @@ I'm Clark, pursing a career in cybersecurity and maintaining a focus on cloud se
 I've worked with AWS, Azure in a cloud aspect and I have a B.S in Cybersecurity Technology
 
 I plan to document my AWS learning and project creation in my repository and using this profile to display my effort and self study
-
+## Technologies
+- Wireshark, Python, MySQL
+- Linux (Ubuntu, Mint, Kali)
+- IAM, RBAC
+  
 ## A bit About me
 - 📺Anime watcher
 - 🏋🏻‍♂️Gym fanatic
