@@ -2,9 +2,12 @@
 
 I'm Clark, pursing a career in cybersecurity and maintaining a focus on cloud security.
 
-I've worked with AWS, Azure in a cloud aspect and a B.S in Cybersecurity Technology
+I've worked with AWS, Azure in a cloud aspect and I have a B.S in Cybersecurity Technology
 
 I plan to document my AWS learning and project creation in my repository and use this profile to display my effort and self study
+
+## Personal
+
 <!--
 **CLARKYBOI/CLARKYBOI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
