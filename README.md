@@ -4,11 +4,15 @@ I'm Clark, pursing a career in cybersecurity and maintaining a focus on cloud se
 
 I've worked with AWS, Azure in a cloud aspect and I have a B.S in Cybersecurity Technology
 
-I plan to document my AWS learning and project creation in my repository and use this profile to display my effort and self study
+I plan to document my AWS learning and project creation in my repository and using this profile to display my effort and self study
 
-## Personal
-
+## A bit About me
+- 📺Anime watcher
+- 🏋🏻‍♂️Gym fanatic
+- 💉Addicted to self improvement 
 <!--
+Some technical skills uses of Linux and other flavors such as Kali, Arch, Ubuntu, Mint and familiar with Windows 11/10, OrcaleBox, VMware.
+While developing my understanding of compliance standards such as NIST 800-53, MITRE ATT&CK
 **CLARKYBOI/CLARKYBOI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
