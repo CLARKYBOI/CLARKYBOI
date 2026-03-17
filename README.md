@@ -6,9 +6,10 @@ I've worked with AWS, Azure in a cloud aspect and I have a B.S in Cybersecurity 
 
 I plan to document my AWS learning and project creation in my repository and using this profile to display my effort and self study
 ## Technologies
-- Wireshark, Python, MySQL
-- Linux (Ubuntu, Mint, Kali)
-- IAM, RBAC
+- Python (boto3, AWS automation, scripting), SQL, HTML
+- Windows 10/11, Linux (Kali, Mint, Ubuntu, Arch), Oracle VirtualBox, VMware
+- AWS (IAM, EC2, CloudWatch, Lambda), Azure, IAM, RBAC
+- Security Assessments, Remediation Tracking, Compliance Scanning, Incident Response, Threat Hunting
   
 ## A bit About me
 - 🏋🏻‍♂️ Gym fanatic
