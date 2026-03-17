@@ -11,10 +11,10 @@ I plan to document my AWS learning and project creation in my repository and usi
 - IAM, RBAC
   
 ## A bit About me
-- 📺Anime watcher
-- 🏋🏻‍♂️Gym fanatic
+- 🏋🏻‍♂️ Gym fanatic
 - 🎯 Practice-oriented
 - 🎮 FPS enjoyer
+- 📺 Anime enjoyer
 <!--
 Some technical skills uses of Linux and other flavors such as Kali, Arch, Ubuntu, Mint and familiar with Windows 11/10, OrcaleBox, VMware.
 While developing my understanding of compliance standards such as NIST 800-53, MITRE ATT&CK
